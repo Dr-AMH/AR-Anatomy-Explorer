@@ -1,4 +1,6 @@
 # AR-Anatomy-Explorer
+AR Anatomy Explorer: Mobile-Based Spatial Learning Prototype
+## Description
 A mobile augmented reality (AR) prototype developed using Unity AR Foundation that allows users to place and interact with 3D objects in real-world environments. The system supports spatial learning through embodied interaction and contextual visualization.
 ## Features
 * Real-time plane detection (ARCore)
