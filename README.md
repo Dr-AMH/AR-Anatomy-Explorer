@@ -13,3 +13,10 @@ This prototype explores spatial cognition and embodied learning using AR interfa
 * Unity AR Foundation
 * ARCore (Android)
 * Blender (3D assets)
+## Demo
+Video: [Coming Soon..!]<br>
+Screenshots: [Coming Soon...!]
+## Author
+Dr. Ayaz Muhammad Hanif
+PhD (Design) | Assistant Professor
+Researcher in XR, HCI, and Educational Technology
